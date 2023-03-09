@@ -12,8 +12,8 @@
                                 <span class="sub-title" data-animation="fadeInDown" data-delay=".4s">Travel Camping and</span>
                                 <h1 data-animation="fadeInUp" data-delay=".6s">Adventure</h1>
                                 <div class="hero-button" data-animation="fadeInDown" data-delay=".8s">
-                                    <a href="about.html" class="main-btn btn-yellow">Discover more<i class="far fa-angle-double-right"></i></a>
-                                    <a href="faq.html" class="main-btn btn-link">How it works<i class="far fa-angle-double-right"></i></a>
+                                    <a href="{{route('about_us')}}" class="main-btn btn-yellow">Discover more<i class="far fa-angle-double-right"></i></a>
+                                    <a href="#" class="main-btn btn-link">How it works<i class="far fa-angle-double-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <span class="sub-title" data-animation="fadeInDown" data-delay=".4s">Travel Camping and</span>
                                 <h1 data-animation="fadeInUp" data-delay=".6s">Travel</h1>
                                 <div class="hero-button" data-animation="fadeInDown" data-delay=".8s">
-                                    <a href="about.html" class="main-btn btn-yellow">Discover more<i class="far fa-angle-double-right"></i></a>
-                                    <a href="faq.html" class="main-btn btn-link">How it works<i class="far fa-angle-double-right"></i></a>
+                                    <a href="{{route('about_us')}}" class="main-btn btn-yellow">Discover more<i class="far fa-angle-double-right"></i></a>
+                                    <a href="#" class="main-btn btn-link">How it works<i class="far fa-angle-double-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -46,8 +46,8 @@
                                 <span class="sub-title" data-animation="fadeInDown" data-delay=".4s">Travel Camping and</span>
                                 <h1 data-animation="fadeInUp" data-delay=".6s">Camping</h1>
                                 <div class="hero-button" data-animation="fadeInDown" data-delay=".8s">
-                                    <a href="about.html" class="main-btn btn-yellow">Discover more<i class="far fa-angle-double-right"></i></a>
-                                    <a href="faq.html" class="main-btn btn-link">How it works<i class="far fa-angle-double-right"></i></a>
+                                    <a href="{{route('about_us')}}" class="main-btn btn-yellow">Discover more<i class="far fa-angle-double-right"></i></a>
+                                    <a href="#" class="main-btn btn-link">How it works<i class="far fa-angle-double-right"></i></a>
                                 </div>
                             </div>
                         </div>
