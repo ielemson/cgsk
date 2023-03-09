@@ -51,6 +51,7 @@
           </div>
       </div>
   </section>
+
   <!--====== End About Section ======-->
   <!--====== Start Service Section ======-->
   {{-- <section class="service-section pb-60">
@@ -70,7 +71,7 @@
                           <img src="frontend/assets/images/service/s-1.jpg" alt="Service Image">
                           <div class="hover-overlay"></div>
                           <div class="hover-content">
-                              <a href="accommodation-details.html" class="icon-btn"><i class="far fa-arrow-right"></i></a>
+                              <a href="#" class="icon-btn"><i class="far fa-arrow-right"></i></a>
                           </div>
                       </div>
                       <div class="text pt-35">
@@ -81,7 +82,7 @@
                               <li><i class="fas fa-star"></i></li>
                               <li><i class="fas fa-star"></i></li>
                           </ul>
-                          <h4 class="title"><a href="accommodation-details.html">Tent Camping Services</a></h4>
+                          <h4 class="title"><a href="#">Tent Camping Services</a></h4>
                       </div>
                   </div>
               </div>
@@ -91,7 +92,7 @@
                           <img src="frontend/assets/images/service/s-2.jpg" alt="Service Image">
                           <div class="hover-overlay"></div>
                           <div class="hover-content">
-                              <a href="accommodation-details.html" class="icon-btn"><i class="far fa-arrow-right"></i></a>
+                              <a href="#" class="icon-btn"><i class="far fa-arrow-right"></i></a>
                           </div>
                       </div>
                       <div class="text pt-35">
@@ -102,7 +103,7 @@
                               <li><i class="fas fa-star"></i></li>
                               <li><i class="fas fa-star"></i></li>
                           </ul>
-                          <h4 class="title"><a href="accommodation-details.html">Family Camping Services</a></h4>
+                          <h4 class="title"><a href="#">Family Camping Services</a></h4>
                       </div>
                   </div>
               </div>
@@ -112,7 +113,7 @@
                           <img src="frontend/assets/images/service/s-3.jpg" alt="Service Image">
                           <div class="hover-overlay"></div>
                           <div class="hover-content">
-                              <a href="accommodation-details.html" class="icon-btn"><i class="far fa-arrow-right"></i></a>
+                              <a href="#" class="icon-btn"><i class="far fa-arrow-right"></i></a>
                           </div>
                       </div>
                       <div class="text pt-35">
@@ -123,7 +124,7 @@
                               <li><i class="fas fa-star"></i></li>
                               <li><i class="fas fa-star"></i></li>
                           </ul>
-                          <h4 class="title"><a href="accommodation-details.html">Wild Camping Services</a></h4>
+                          <h4 class="title"><a href="#">Wild Camping Services</a></h4>
                       </div>
                   </div>
               </div>
@@ -168,7 +169,7 @@
                       <div class="text">
                           <p>Sit amet consectetur adipiscing elitcelerisque
                               aenectus bibendum facilisi tempus</p>
-                          <a href="accommodation-details.html" class="btn-link">Read more <i class="far fa-angle-double-right"></i></a>
+                          <a href="#" class="btn-link">Read more <i class="far fa-angle-double-right"></i></a>
                       </div>
                   </div>
               </div>
@@ -185,7 +186,7 @@
                       <div class="text">
                           <p>Sit amet consectetur adipiscing elitcelerisque
                               aenectus bibendum facilisi tempus</p>
-                          <a href="accommodation-details.html" class="btn-link">Read more <i class="far fa-angle-double-right"></i></a>
+                          <a href="#" class="btn-link">Read more <i class="far fa-angle-double-right"></i></a>
                       </div>
                   </div>
               </div>
@@ -202,7 +203,7 @@
                       <div class="text">
                           <p>Sit amet consectetur adipiscing elitcelerisque
                               aenectus bibendum facilisi tempus</p>
-                          <a href="accommodation-details.html" class="btn-link">Read more <i class="far fa-angle-double-right"></i></a>
+                          <a href="#" class="btn-link">Read more <i class="far fa-angle-double-right"></i></a>
                       </div>
                   </div>
               </div>
@@ -219,7 +220,7 @@
                       <div class="text">
                           <p>Sit amet consectetur adipiscing elitcelerisque
                               aenectus bibendum facilisi tempus</p>
-                          <a href="accommodation-details.html" class="btn-link">Read more <i class="far fa-angle-double-right"></i></a>
+                          <a href="#" class="btn-link">Read more <i class="far fa-angle-double-right"></i></a>
                       </div>
                   </div>
               </div>
@@ -236,7 +237,7 @@
                       <div class="text">
                           <p>Sit amet consectetur adipiscing elitcelerisque
                               aenectus bibendum facilisi tempus</p>
-                          <a href="accommodation-details.html" class="btn-link">Read more <i class="far fa-angle-double-right"></i></a>
+                          <a href="#" class="btn-link">Read more <i class="far fa-angle-double-right"></i></a>
                       </div>
                   </div>
               </div>
@@ -253,7 +254,7 @@
                       <div class="text">
                           <p>Sit amet consectetur adipiscing elitcelerisque
                               aenectus bibendum facilisi tempus</p>
-                          <a href="accommodation-details.html" class="btn-link">Read more <i class="far fa-angle-double-right"></i></a>
+                          <a href="#" class="btn-link">Read more <i class="far fa-angle-double-right"></i></a>
                       </div>
                   </div>
               </div>
@@ -262,6 +263,7 @@
   </section> --}}
   <!--====== End Features Section ======-->
   <!--====== Start Accommodation Section ======-->
+
   <section class="accommodation-section pb-100">
       <div class="container-fluid">
           <div class="service-slider-one wow fadeInDown">
@@ -271,11 +273,11 @@
                       <div class="hover-content">
                           <div class="inner-content d-flex justify-content-between">
                               <div class="text">
-                                  <h4 class="title"><a href="accommodation-details.html">Tent Camper</a></h4>
-                                  <a href="accommodation-details.html" class="btn-link">check availability<i class="far fa-angle-double-right"></i></a>
+                                  <h4 class="title"><a href="#">Tent Camper</a></h4>
+                                  <a href="#" class="btn-link">check availability<i class="far fa-angle-double-right"></i></a>
                               </div>
                               <div class="icon">
-                                  <a href="accommodation-details.html" class="icon-btn"><i class="far fa-arrow-right"></i></a>
+                                  <a href="#" class="icon-btn"><i class="far fa-arrow-right"></i></a>
                               </div>
                           </div>
                       </div>
@@ -287,11 +289,11 @@
                       <div class="hover-content">
                           <div class="inner-content d-flex justify-content-between">
                               <div class="text">
-                                  <h4 class="title"><a href="accommodation-details.html">Tent Camper</a></h4>
-                                  <a href="accommodation-details.html" class="btn-link">check availability<i class="far fa-angle-double-right"></i></a>
+                                  <h4 class="title"><a href="#">Tent Camper</a></h4>
+                                  <a href="#" class="btn-link">check availability<i class="far fa-angle-double-right"></i></a>
                               </div>
                               <div class="icon">
-                                  <a href="accommodation-details.html" class="icon-btn"><i class="far fa-arrow-right"></i></a>
+                                  <a href="#" class="icon-btn"><i class="far fa-arrow-right"></i></a>
                               </div>
                           </div>
                       </div>
@@ -303,11 +305,11 @@
                       <div class="hover-content">
                           <div class="inner-content d-flex justify-content-between">
                               <div class="text">
-                                  <h4 class="title"><a href="accommodation-details.html">Tent Camper</a></h4>
-                                  <a href="accommodation-details.html" class="btn-link">check availability<i class="far fa-angle-double-right"></i></a>
+                                  <h4 class="title"><a href="#">Tent Camper</a></h4>
+                                  <a href="#" class="btn-link">check availability<i class="far fa-angle-double-right"></i></a>
                               </div>
                               <div class="icon">
-                                  <a href="accommodation-details.html" class="icon-btn"><i class="far fa-arrow-right"></i></a>
+                                  <a href="#" class="icon-btn"><i class="far fa-arrow-right"></i></a>
                               </div>
                           </div>
                       </div>
@@ -319,11 +321,11 @@
                       <div class="hover-content">
                           <div class="inner-content d-flex justify-content-between">
                               <div class="text">
-                                  <h4 class="title"><a href="accommodation-details.html">Tent Camper</a></h4>
-                                  <a href="accommodation-details.html" class="btn-link">check availability<i class="far fa-angle-double-right"></i></a>
+                                  <h4 class="title"><a href="#">Tent Camper</a></h4>
+                                  <a href="#" class="btn-link">check availability<i class="far fa-angle-double-right"></i></a>
                               </div>
                               <div class="icon">
-                                  <a href="accommodation-details.html" class="icon-btn"><i class="far fa-arrow-right"></i></a>
+                                  <a href="#" class="icon-btn"><i class="far fa-arrow-right"></i></a>
                               </div>
                           </div>
                       </div>

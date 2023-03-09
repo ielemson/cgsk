@@ -10,7 +10,8 @@
             </form>
         </div>
     </div>
-</div><!--====== Search From ======-->
+</div>
+<!--====== Search From ======-->
 <!--====== Start Header ======-->
 <header class="header-area transparent-header">
     <!--=== Header Navigation ===-->
@@ -74,23 +75,24 @@
                             </li> --}}
                          
                             <li class="menu-item"><a href="{{route('contact_us')}}">Contact</a></li>
+                            <li class="menu-item"><a href="https://cgskltd.com:2096/" target="_blank" rel="noopener noreferrer">Staff Email</a></li>
+                            
                             {{-- <li class="menu-item"><a class="search-btn" href="#" data-bs-toggle="modal" data-bs-target="#search-modal"><i class="far fa-search"></i></a></li> --}}
                         </ul>
                     </nav>
                     <!--=== Nav Button ===-->
                     <div class="menu-button mt-40 d-xl-none">
-                        <a href="contact.html" class="main-btn btn-green">Book now<i class="far fa-angle-double-right"></i></a>
+                        <a href="{{route('contact_us')}}" class="main-btn btn-green">Book now<i class="far fa-angle-double-right"></i></a>
                     </div>
                 </div>
                 <!--=== Nav right Item ===-->
                 <div class="nav-right-item d-flex align-items-center">
                     <div class="menu-button d-xl-block d-none">
-                        <a href="contact.html" class="main-btn btn-green">Book now<i class="far fa-angle-double-right"></i></a>
+                        <a href="{{route('contact_us')}}" class="main-btn btn-green">Book now<i class="far fa-angle-double-right"></i></a>
                     </div>
                     {{-- <div class="lang-dropdown">
                         <select class="wide">
-                            <option value="English">English</option>
-                            <option value="English">English</option>
+                            <option >Staff Email</option>
                         </select>
                     </div> --}}
                     <div class="navbar-toggler">
@@ -102,4 +104,5 @@
             </div>
         </div>
     </div>
-</header><!--====== End Header ======-->
+</header>
+<!--====== End Header ======-->

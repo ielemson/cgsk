@@ -54,7 +54,8 @@
                             <li class=""><a href="{{route('about_us')}}">About Us</a></li>
                              
                             <li class="menu-item"><a href="{{route('contact_us')}}">Contact</a></li>
-                            <li class="menu-item"><div class="search-btn" data-bs-toggle="modal" data-bs-target="#search-modal"><i class="far fa-search"></i></div></li>
+                            <li class="menu-item"><a href="https://cgskltd.com:2096/" target="_blank" rel="noopener noreferrer">Staff Email</a></li>
+                            {{-- <li class="menu-item"><div class="search-btn" data-bs-toggle="modal" data-bs-target="#search-modal"><i class="far fa-search"></i></div></li> --}}
                         </ul>
                     </nav>
                     <!--=== Nav Button ===-->
